@@ -22,6 +22,12 @@ const websites = [{
     name: 'NewsBTC',
     url: 'https://www.newsbtc.com/',
     base: ''
+},
+
+{
+    name: 'CryptoNewz',
+    url: 'https://www.cryptonewsz.com/',
+    base: 'https://www.cryptonewsz.com/'
 }
 
 ]
